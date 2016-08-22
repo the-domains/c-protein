@@ -1,0 +1,14 @@
+name: c protein
+layout_spectrum: 0.6034523455344414
+typography_spectrum: 0.008326343867927077
+color:
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  brandStrength: 0.36548875839836725
+  lightness: 0.9255190747665742
+  saturation: 0.6078089319552067
+  rhythmicContrast: 0.5039034184097386
